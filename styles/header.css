@@ -170,15 +170,15 @@ img {
   font-size: 14px;
   line-height: 21px;
   color: #FF4252;
-  margin: 0;
+  margin: 10px;
 }
 .box-phone {
   font-weight: bold;
   font-size: 18px;
   line-height: 21px;
   text-align: right;
-  margin: 3px;
   color: #333333;
+  margin: 5px 20px 0 0px;
 }
 
 /*block end*/
