@@ -136,3 +136,27 @@
     color: #FF4252;
     margin: 0 10px 0 0;
 }
+
+.catalog_cards {
+
+}
+
+.catalog_card {
+    width: 262px;
+    height: 243px;
+}
+.catalog_card_img {
+    width: 262px;
+    height: 195px;
+}
+
+.catalog_card-text {
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.catalog_title {
+    margin-left: 293px;
+}
