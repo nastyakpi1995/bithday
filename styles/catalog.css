@@ -81,7 +81,6 @@
     height: 28px;
     left: 10px;
     top: 10px;
-    background: #FFC600;
     border-radius: 2px;
     font-weight: bold;
     font-size: 14px;
@@ -159,4 +158,11 @@
 
 .catalog_title {
     margin-left: 293px;
+}
+
+.yellow {
+    background: #FFC600;
+}
+.green {
+    background: #78B833;
 }
